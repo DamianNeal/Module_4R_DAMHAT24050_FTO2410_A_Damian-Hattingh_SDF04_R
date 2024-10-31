@@ -22,18 +22,14 @@ body {
     display:flex;
     justify-content: center;
     align-items: center;
-    gap: 20%;
-
-    
+    gap: 20%; 
   }
   
   .pastry {
     color: #533117;
     padding: 20px;
     border-radius: 50%;
-    font-size: 18px;
-    
-    
+    font-size: 18px; 
   }
   
   .pastry img {
